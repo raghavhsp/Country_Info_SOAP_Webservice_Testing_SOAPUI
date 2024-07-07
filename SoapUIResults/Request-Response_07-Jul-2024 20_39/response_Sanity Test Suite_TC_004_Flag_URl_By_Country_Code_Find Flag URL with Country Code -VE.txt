@@ -1,0 +1,7 @@
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope">
+   <soap:Body>
+      <m:CountryFlagResponse xmlns:m="http://www.oorsprong.org/websamples.countryinfo">
+         <m:CountryFlagResult>Country not found in the database</m:CountryFlagResult>
+      </m:CountryFlagResponse>
+   </soap:Body>
+</soap:Envelope>

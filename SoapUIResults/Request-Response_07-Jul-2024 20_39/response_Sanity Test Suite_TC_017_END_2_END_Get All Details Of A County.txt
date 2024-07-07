@@ -1,0 +1,21 @@
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope">
+   <soap:Body>
+      <m:FullCountryInfoResponse xmlns:m="http://www.oorsprong.org/websamples.countryinfo">
+         <m:FullCountryInfoResult>
+            <m:sISOCode>IN</m:sISOCode>
+            <m:sName>India</m:sName>
+            <m:sCapitalCity>New Delhi</m:sCapitalCity>
+            <m:sPhoneCode>91</m:sPhoneCode>
+            <m:sContinentCode>AS</m:sContinentCode>
+            <m:sCurrencyISOCode>INR</m:sCurrencyISOCode>
+            <m:sCountryFlag>http://www.oorsprong.org/WebSamples.CountryInfo/Flags/India.jpg</m:sCountryFlag>
+            <m:Languages>
+               <m:tLanguage>
+                  <m:sISOCode>hin</m:sISOCode>
+                  <m:sName>Hindi</m:sName>
+               </m:tLanguage>
+            </m:Languages>
+         </m:FullCountryInfoResult>
+      </m:FullCountryInfoResponse>
+   </soap:Body>
+</soap:Envelope>
