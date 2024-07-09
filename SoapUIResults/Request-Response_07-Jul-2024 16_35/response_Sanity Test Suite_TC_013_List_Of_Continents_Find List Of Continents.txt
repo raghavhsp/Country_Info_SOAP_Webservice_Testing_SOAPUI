@@ -1,0 +1,32 @@
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope">
+   <soap:Body>
+      <m:ListOfContinentsByCodeResponse xmlns:m="http://www.oorsprong.org/websamples.countryinfo">
+         <m:ListOfContinentsByCodeResult>
+            <m:tContinent>
+               <m:sCode>AF</m:sCode>
+               <m:sName>Africa</m:sName>
+            </m:tContinent>
+            <m:tContinent>
+               <m:sCode>AM</m:sCode>
+               <m:sName>The Americas</m:sName>
+            </m:tContinent>
+            <m:tContinent>
+               <m:sCode>AN</m:sCode>
+               <m:sName>Antarctica</m:sName>
+            </m:tContinent>
+            <m:tContinent>
+               <m:sCode>AS</m:sCode>
+               <m:sName>Asia</m:sName>
+            </m:tContinent>
+            <m:tContinent>
+               <m:sCode>EU</m:sCode>
+               <m:sName>Europe</m:sName>
+            </m:tContinent>
+            <m:tContinent>
+               <m:sCode>OC</m:sCode>
+               <m:sName>Ocenania</m:sName>
+            </m:tContinent>
+         </m:ListOfContinentsByCodeResult>
+      </m:ListOfContinentsByCodeResponse>
+   </soap:Body>
+</soap:Envelope>

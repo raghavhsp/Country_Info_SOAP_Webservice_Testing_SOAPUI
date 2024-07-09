@@ -1,0 +1,7 @@
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope">
+   <soap:Body>
+      <m:CountryNameResponse xmlns:m="http://www.oorsprong.org/websamples.countryinfo">
+         <m:CountryNameResult>India</m:CountryNameResult>
+      </m:CountryNameResponse>
+   </soap:Body>
+</soap:Envelope>

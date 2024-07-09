@@ -1,0 +1,116 @@
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope">
+   <soap:Body>
+      <m:CountriesUsingCurrencyResponse xmlns:m="http://www.oorsprong.org/websamples.countryinfo">
+         <m:CountriesUsingCurrencyResult>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>AD</m:sISOCode>
+               <m:sName>Andorra</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>AT</m:sISOCode>
+               <m:sName>Austria</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>AX</m:sISOCode>
+               <m:sName>Åland Islands</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>BE</m:sISOCode>
+               <m:sName>Belgium</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>BL</m:sISOCode>
+               <m:sName>Saint Barthélemy</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>DE</m:sISOCode>
+               <m:sName>Germany</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>ES</m:sISOCode>
+               <m:sName>Spain</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>FI</m:sISOCode>
+               <m:sName>Finland</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>FR</m:sISOCode>
+               <m:sName>France</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>GF</m:sISOCode>
+               <m:sName>French Guiana</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>GP</m:sISOCode>
+               <m:sName>Guadeloupe</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>GR</m:sISOCode>
+               <m:sName>Greece</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>IE</m:sISOCode>
+               <m:sName>Ireland</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>IT</m:sISOCode>
+               <m:sName>Italy</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>LU</m:sISOCode>
+               <m:sName>Luxembourg</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>MC</m:sISOCode>
+               <m:sName>Monaco</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>ME</m:sISOCode>
+               <m:sName>Montenegro</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>MF</m:sISOCode>
+               <m:sName>Collectivity of Saint Martin</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>MQ</m:sISOCode>
+               <m:sName>Martinique</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>NL</m:sISOCode>
+               <m:sName>Netherlands</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>PM</m:sISOCode>
+               <m:sName>Saint Pierre And Micquelon</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>PT</m:sISOCode>
+               <m:sName>Portugal</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>RE</m:sISOCode>
+               <m:sName>Reunion</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>SM</m:sISOCode>
+               <m:sName>San Marino</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>TF</m:sISOCode>
+               <m:sName>French Southern Territories</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>VA</m:sISOCode>
+               <m:sName>Vatican City</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>YT</m:sISOCode>
+               <m:sName>Mayotte</m:sName>
+            </m:tCountryCodeAndName>
+         </m:CountriesUsingCurrencyResult>
+      </m:CountriesUsingCurrencyResponse>
+   </soap:Body>
+</soap:Envelope>
